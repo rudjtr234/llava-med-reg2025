@@ -324,15 +324,15 @@ conv_reg_2025 = Conversation(
     offset=0,
     sep_style=SeparatorStyle.SINGLE,
     sep="###",
-) #�߰���Ʈ
+) # change & add part prompt
 
 
-default_conversation = conv_reg_2025 #������Ʈ
+default_conversation = conv_reg_2025 #º¯°æÆÄÆ®
 conv_templates = {
-    "default": conv_reg_2025 , #������Ʈ
+    "default": conv_reg_2025 , #º¯°æÆÄÆ®
     "simple": simple_conv,
     "simple_legacy": simple_conv_legacy,
-    "multimodal": conv_reg_2025, # 변경파트 
+    "multimodal": conv_reg_2025, # ë³ê²½íí¸ 
     "llava_v1": conv_llava_v1,
 
     # fastchat
