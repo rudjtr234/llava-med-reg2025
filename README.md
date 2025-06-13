@@ -1,4 +1,4 @@
-# llava-med-reg2025
+# LLaVA-med-reg2025
 
 # Prepare REG_2025 Challenge with MTS Company 
 
