@@ -2,8 +2,6 @@
 
 # Prepare REG_2025 Challenge with MTS Company 
 
-# rudjtr234 , messi lee
-
 REport Generation in pathology using Pan-Asia Giga-pixel WSIs
 ℹ️ Notice
 🟢 You are allowed to use pre-trained weights without restriction.
